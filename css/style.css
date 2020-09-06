@@ -296,13 +296,11 @@ ul {
     flex-direction: column;
   }
   .showcase .img-container {
+    display: block;
     width: 100%;
   }
   .showcase .img-container img {
-    width: 50%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
+    width: 100%;
   }
   .showcase .facilities {
     width: 100%;
