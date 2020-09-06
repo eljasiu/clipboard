@@ -299,7 +299,9 @@ ul {
     width: 100%;
   }
   .showcase .img-container img {
-    width: 99%;
+    width: 50%;
+    display: block;
+    margin: 0 auto;
   }
   .showcase .facilities {
     width: 100%;
